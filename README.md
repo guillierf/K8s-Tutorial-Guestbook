@@ -5,6 +5,7 @@ This tutorial is based on K8s Tutorial:
 Stateless Application
 
 Example: Deploying PHP Guestbook application with Redis
+
 https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
 
 
