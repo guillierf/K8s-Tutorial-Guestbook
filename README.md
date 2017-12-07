@@ -1,6 +1,6 @@
 # K8s-Tutorial-Guestbook
 
-This tutorial is based on K8s Tutorial:
+This tutorial is based on K8s Official Tutorial:
 
 Stateless Application
 
